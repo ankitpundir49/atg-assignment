@@ -1,0 +1,385 @@
+
+@media (min-width:576px) {
+    .body{
+        width: 1440px;
+    }
+    .navbar1{
+        position: absolute;
+        width: 1440px;
+        height: 72px;
+        margin-left: 0px;
+        margin-top: 0px;
+        padding-top: 0px;;
+        background: #FFFFFF;
+        box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.12);
+    }
+    .nav1{
+        width: 1440px;
+        height: 72px;
+    }
+    
+    .whole{
+        width: 162.57px;
+        height: 24px;
+        margin-left: 72px;
+        margin-top:24px;
+        padding: 0%;
+    }
+    .union1{
+        width:23.98px;
+        height:24px;
+        background-color: linear-gradient(138.44deg, #00A854 23.11%, #004D25 76.5%);
+        padding: 0%;
+    }
+    .textATG{
+        color: #27A365;
+        width :25.89px;
+        height:21.6px;
+        padding: 0%;
+    }
+    .textWorld{
+        color: #5C5D5D;
+        width :25.89px;
+        height:21.6px;
+        padding: 0%;
+    }
+    .searchBar{
+        width: 360px;
+        height: 42px;
+        margin-left: 350px;
+        margin-top: 20px;
+    
+        background-color: #F2F2F2;
+        border-radius: 21px;
+    
+    }
+    .border_#F2F2F2{
+        border:1px solid #F2F2F2;
+    }
+    .searchInner{
+        width: 300px;
+        background-color: #F2F2F2;
+    }
+    
+    .createAccount{
+        position: absolute;
+        width: 220px;
+        height: 21px;
+        margin-left: 1161px;
+        margin-top: 24px;
+        margin-right:0px;
+        padding: 0%;
+        float: right;
+    
+    }
+    .jumbotron{
+        background-image: url("./GroupData/Rectangle.png");
+        background-size:cover;
+        width:1440px;
+        height:440px;
+        position: absolute;
+        margin-left: 0px;
+        margin-top: 72px;
+        background-color: linear-gradient(180deg, rgba(0, 0, 0, 0.45) 0%, rgba(0, 0, 0, 0.6) 100%);
+    }
+    .rect_img2{
+        margin-left:200px;
+        margin-top:280px;
+    }
+    .fontRec1Hed{
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 47px;
+    }
+    .fontRec1Para{
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 23px;
+    }
+    .cont1{
+        margin-left:200px;
+        margin-top:559px;
+        width: 1040px;
+        position: absolute;
+        padding:0%;
+    }
+    .cont1_rect{
+        height:56px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .float_Right{
+        float: right;
+    }
+    .float_Left{
+        float:left;
+    }  
+    .hide_Div{
+        display: none!important;
+    }  
+    .card1{
+        position: absolute;
+        width: 692px;
+        height: 472px;
+        margin-left: 200px;
+        margin-top: 628px;
+        background-color: #FFFFFF;
+        border-radius: 4px;
+    }
+    .text_Right{
+        text-align: right;
+        padding: 20px;
+    }
+    .info{
+        margin-top:32px;
+        margin-left:20px;
+    }
+    .nameInfo{
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 23px;
+    }
+    .viewInfo{
+        text-align:right;
+    }
+    .shareBtn{
+        width:42px;
+        height:36px;
+        border-radius: 2px;
+    }
+    .locationBox{
+        position: absolute;
+        width:220px;
+        height: 18px;
+        margin-left: 1019px;
+        margin-top: 656px;
+    }
+    .locOval{
+        position:absolute;
+        margin-left: 0%;
+        margin-right: 30%;
+        margin-top: 3%;
+        margin-bottom: 52.08%;
+    }
+    .editLoc{
+        margin-left: 12.5%;
+        margin-right: 12.49%;
+        margin-top: 12.49%;
+        margin-bottom: 12.5%;
+    }
+    .locDot{
+        position:absolute;
+        margin-left: 1.50%;
+        margin-right: 30%;
+        margin-top: 5%;
+        margin-bottom: 52.08%;
+    }
+    .errorFont{
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 16px;
+
+        color: #000000;
+        opacity: 0.5;
+    }
+    .followFont{
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 18px;
+        color: #000000;
+
+    }
+    .radiusCircle{
+        border-radius: 14px;
+    }
+    .seeMore{
+        position: absolute;
+        width:100%;
+        height: 16px;
+        margin-top: 660px;
+
+        font-family: 'IBM Plex Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 16px;
+
+        text-align: right;
+        color: #2F6CE5;
+    }
+    .Recmnd{
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 16px;
+
+        color: #000000;
+        text-transform: uppercase;
+    }
+    .DotEdit{
+        background-color: none;
+        border:none;
+    }
+}
+
+@media (max-width: 575px) {
+    .jumbotron{
+        background-image: url("./GroupData/Rectangle.png");
+        background-size:cover;
+        width:100%;
+        height: 236px;
+        margin-left: 0px;
+        background-color: linear-gradient(180deg, rgba(0, 0, 0, 0.45) 0%, rgba(0, 0, 0, 0.6) 100%);
+    }
+    .fontRec1Hed{
+        font-style: normal;
+        font-weight: 700;
+        font-size: 17px;
+        line-height: 22px;
+    }
+    .fontRec1Para{
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .rect_img2{
+        position:absolute;
+        width:80%;
+        margin-left:16px;
+        margin-top:150px;
+        margin-right:165px;
+    }
+    .arrowLoc{
+        position: absolute;
+        width:92%;
+        margin: 0%;
+        padding: 0%;
+        margin-left:20px;
+        margin-top:20px;
+        margin-right:20px; 
+    }
+    .rect2{
+        position: absolute;
+        width:95%;
+        height: 18px;
+        margin-left:16px;
+    }
+    .rect3{
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 18px;
+        letter-spacing: 0.01em;
+        padding-top: 5px;
+    }
+    .rect4{
+        background-color: #F1F3F5;
+        border-radius: 4px;
+        width: 106px;
+        height: 32px;
+    }
+    .hide_Div{
+        height: 24px;
+    }
+    .text_Right{
+        text-align: right;
+    }
+    .card1{
+        width:100%;
+        height: 120px;
+        margin-left: 0px;
+        margin-top:50px;
+
+        background-color: #FFFFFF;
+        border-radius: 4px;
+    }
+    .nameInfo{
+        font-style: normal;
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 17px;
+    }
+    .viewInfo{
+        text-align: left;
+    }
+    .topicFont{
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .shareFont{
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 16px;
+        width:auto;
+    }
+    .shareBtn{
+        width: 70px;
+        height: 36px;
+        border-radius: 2px;
+    }
+    .textFont{
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 16px;
+        letter-spacing: -0.01em;
+        color: #212529;
+    }
+    .circle{
+        width: 54px;
+        height: 54px;
+        position: fixed;
+        bottom: 0px;
+        left:80%;
+    }
+    .editLoc{
+        width: 14.81px;
+        height: 14.81px;
+        position: fixed;
+        bottom: 20px;
+        left:83.5%; 
+        color:white; 
+    }
+    .sticky{
+        position:fixed;
+        bottom: 5%;
+        right:5%;
+    }
+    .sticky2{
+        position: absolute;
+        bottom: 70%;
+        top:30%;
+        right:75%;
+        left:35%;
+    }
+  }
+  .meetBtn{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 140.4%;
+    text-align: center;
+    
+    color: #E56135;
+  }
+  .jobBtn{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 140.4%;
+    text-align: center;
+    
+    color:#02B875;
+  }
+  
